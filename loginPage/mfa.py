@@ -5,9 +5,9 @@ import smtplib
 
 def emailSender():
     code = random.randint(1000, 9999)
-    email_sender = 'toktik.8375@gmail.com'
-    email_password ='uszg hmrw onii jkxo'
-    email_reciever = 'agthompson.612194@gmail.com'
+    email_sender = 'REMOVED'
+    email_password ='REMOVED'
+    email_reciever = 'REMOVED'
 
     subject = 'hello world'
 
