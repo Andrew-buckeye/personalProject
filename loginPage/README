@@ -1,0 +1,3 @@
+Goal- undertand Mfa and implement it. 
+loginPage uses the flask library to start a local website then using hardcoded usernames, allows you to login. With the 'user' login, you're asked for a code. 
+This code is sent to your email, acting as MFA. 
